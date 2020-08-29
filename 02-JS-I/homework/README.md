@@ -18,4 +18,4 @@
 >> Deberás ir escribiendo código en `homework.js` y corriendo de nuevo los tests hasta que TODOS hayan pasado.
 
 
-### Aca tendras acceso a las [Soluciones](https://github.com/atralice/Curso.Prep.Henry/blob/solution/02-JS-I/homework/homework.js)
+### Aca tendras acceso a las [Soluciones](https://github.com/atralice/Curso.Prep.Henry/blob/solution/02-JS-I/homework/homework.js)º
